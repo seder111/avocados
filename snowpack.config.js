@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/seder111/avocados',
+    baseUrl: 'avocados.7binario.com',
   },
 }
